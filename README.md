@@ -28,9 +28,15 @@ The workspace is organized strictly on a week-by-week basis as per the Deep Skil
 
 ```text
 📦 Cognizant-DN5-DeepSkilling-JavaFSE
- ┣ 📂 Week_1  <-- (Currently Active)
- ┃ ┣ 📂 Design_Patterns
- ┃ ┗ 📂 ... (Upcoming modules)
- ┣ 📂 Week_2  <-- (Pending)
- ┣ 📜 README.md
- ┗ 📜 .gitignore
+ ┣ 📂 Week_1
+ ┃ ┣ 📂 Algorithms_Data Structures
+ ┃ ┣ 📂 Design Patterns and Principles
+ ┃ ┣ 📂 PLSQL_Exercises
+ ┃ ┣ 📂 SL4J Logging exercises
+ ┃ ┗ 📂 TDD using JUnit5 and Mockito
+ ┣ 📂 Week_2
+ ┃ ┣ 📂 Spring Core and Maven
+ ┃ ┗ 📂 Spring Data JPA with Spring Boot
+ ┣ 📂 Week_3 🚀 (Currently Attempting)
+ ┣ 📜 .gitignore
+ ┗ 📜 README.md

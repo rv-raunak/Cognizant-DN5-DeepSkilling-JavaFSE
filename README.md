@@ -24,19 +24,23 @@ Throughout this program, this repository will gradually include my hands-on impl
 * **Testing & Tools:** JUnit5, Mockito, Maven, Git, SLF4J
 
 ## 📁 Repository Structure
-The workspace is organized strictly on a week-by-week basis as per the Deep Skilling Handbook guidelines. It is continuously updated as new modules are completed.
+
+The workspace is organized strictly on a week-by-week basis as per the Deep Skilling Handbook guidelines. It is updated dynamically as modules are completed.
 
 ```text
 📦 Cognizant-DN5-DeepSkilling-JavaFSE
- ┣ 📂 Week_1
- ┃ ┣ 📂 Algorithms_Data Structures
- ┃ ┣ 📂 Design Patterns and Principles
- ┃ ┣ 📂 PLSQL_Exercises
- ┃ ┣ 📂 SL4J Logging exercises
- ┃ ┗ 📂 TDD using JUnit5 and Mockito
- ┣ 📂 Week_2
- ┃ ┣ 📂 Spring Core and Maven
- ┃ ┗ 📂 Spring Data JPA with Spring Boot
- ┣ 📂 Week_3 🚀 (Currently Attempting)
- ┣ 📜 .gitignore
- ┗ 📜 README.md
+┣━ 📁 Week_1
+┃  ┣━ 📁 Algorithms_Data_Structures
+┃  ┣━ 📁 Design Patterns and Principles
+┃  ┣━ 📁 PLSQL_Exercises
+┃  ┣━ 📁 SL4J Logging exercises
+┃  ┗━ 📁 TDD using JUnit5 and Mockito
+┣━ 📁 Week_2
+┃  ┣━ 📁 Spring Core and Maven
+┃  ┗━ 📁 Spring Data JPA with Spring Boot
+┣━ 📁 Week_3
+┃  ┗━ 📁 Spring REST
+┃     ┗━ 📁 spring-learn
+┣━ 📁 Week_4 🚀 (Currently Attempting)
+┣━ 📄 .gitignore
+┗━ 📄 README.md

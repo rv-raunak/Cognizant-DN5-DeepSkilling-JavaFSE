@@ -43,12 +43,17 @@ The workspace is organized strictly on a week-by-week basis as per the Deep Skil
 ┃     ┗━ 📁 spring-learn
 ┣━ 📁 Week_4
 ┃  ┗━ 📁 Microservices
-┣━ 📁 Week_5
+┣━ 📁 Week_5 (React Hands-On Part-1)
 ┃  ┣━ 📁 1. ReactJS-HOL/myfirstreact
 ┃  ┣━ 📁 2. ReactJS-HOL/student_app
 ┃  ┣━ 📁 3. ReactJS-HOL/score_calculator...
 ┃  ┣━ 📁 4. ReactJS-HOL/blogapp
 ┃  ┗━ 📁 5. ReactJS-HOL/react_cohort_da...
-┣━ 📁 Week_6 🚀 (Currently Attempting)
+┣━ 📁 Week_6 (React Hands-On Part-2) 🚀 (Currently Attempting)
+┃  ┣━ 📁 9. ReactJS-HOL
+┃  ┣━ 📁 10. ReactJS-HOL/officespaceren...
+┃  ┣━ 📁 11. ReactJS-HOL
+┃  ┣━ 📁 12. ReactJS-HOL
+┃  ┗━ 📁 13. ReactJS-HOL
 ┣━ 📄 .gitignore
 ┗━ 📄 README.md

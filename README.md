@@ -41,6 +41,8 @@ The workspace is organized strictly on a week-by-week basis as per the Deep Skil
 ┣━ 📁 Week_3
 ┃  ┗━ 📁 Spring REST
 ┃     ┗━ 📁 spring-learn
-┣━ 📁 Week_4 🚀 (Currently Attempting)
+┣━ 📁 Week_4
+┃  ┗━ 📁 Microservices
+┣━ 📁 Week_5 🚀 (Currently Attempting)
 ┣━ 📄 .gitignore
 ┗━ 📄 README.md

@@ -49,11 +49,12 @@ The workspace is organized strictly on a week-by-week basis as per the Deep Skil
 ┃  ┣━ 📁 3. ReactJS-HOL/score_calculator...
 ┃  ┣━ 📁 4. ReactJS-HOL/blogapp
 ┃  ┗━ 📁 5. ReactJS-HOL/react_cohort_da...
-┣━ 📁 Week_6 (React Hands-On Part-2) 🚀 (Currently Attempting)
+┣━ 📁 Week_6 (React Hands-On Part-2)
 ┃  ┣━ 📁 9. ReactJS-HOL
 ┃  ┣━ 📁 10. ReactJS-HOL/officespaceren...
 ┃  ┣━ 📁 11. ReactJS-HOL
 ┃  ┣━ 📁 12. ReactJS-HOL
 ┃  ┗━ 📁 13. ReactJS-HOL
+┣━ 📁 Week_7 🚀 (Currently Attempting)
 ┣━ 📄 .gitignore
 ┗━ 📄 README.md

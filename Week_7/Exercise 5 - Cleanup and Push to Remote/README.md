@@ -1,3 +1,0 @@
-This HOL continues from Exercise 4, verifying master is clean and pushing pending changes to the remote. `run.sh` is self-contained: it creates its own local bare repository as a stand-in remote (seeded with prior history, mirroring a shared repo other contributors already pushed to), clones it, recreates the "pending" commits from Exercise 4, then runs `git pull` followed by `git push` to publish them.
-
-As in Exercise 1, this uses a local bare repository instead of a real GitLab remote since no GitLab credentials are available here. To use an actual GitLab remote, replace the `git clone`/bare-repo setup with your GitLab project's URL.

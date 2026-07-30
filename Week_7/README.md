@@ -1,6 +1,6 @@
 # Week 7 — Git
 
-## What We Learnt
+## What I Learnt
 - The core local workflow: `git init`, staging, committing, and checking repository state with `git status`
 - Configuring repository-level identity and excluding unwanted files/folders with `.gitignore`
 - Branching: creating a branch, committing on it in isolation, and merging it back (including the fast-forward case)
